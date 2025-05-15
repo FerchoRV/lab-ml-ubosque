@@ -1,0 +1,18 @@
+_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
+*.sqlite3
+*.db
+*.log
+*.egg-info/
+dist/
+build/
+Laboratorio 04 Ubosque.pdf
