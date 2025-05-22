@@ -1,3 +1,3 @@
-## Repositorio para los codigo del diplomado en experto en nievas tecnologias 
+## Repositorio para los Código del diplomado en experto en nuevas tecnologías 
 
-En la carpeta lab-03-python-intermedio estan los ejerciios correspondientes a la clase del 16 de mayo de 2025
+Esta distribuido por carpetas para cada uno de los laboratorios realizados.
